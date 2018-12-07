@@ -1,6 +1,6 @@
 # Pygame-2d-SideScroller
 
-This is just a 2d Side Scroller made with a Pygame.
+This is just a 2d Side Scroller made within Pygame.
 
 
 ### Prerequisites
