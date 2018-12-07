@@ -2,9 +2,6 @@
 
 This is just a 2d Side Scroller made with a Pygame.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -18,6 +15,7 @@ pip install pygame
 
 * [Pygame](http://www.pygame.com) - Game Building Library by python
 
+## Authors
 
 * **Raza Hussain** - *Initial work* - [Raza Hussain](https://github.com/Razahussain090)
 
